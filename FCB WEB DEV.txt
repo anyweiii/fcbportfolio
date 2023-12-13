@@ -1,0 +1,15 @@
+Basic Command Line Interface:
+- present working directory
+	Command: pwd
+- opening a folder/directory or change directory
+	Command: cd <folderName>
+- moving out from a folder/directory or change directory
+	Command: cd ..
+- creating directory
+	Command: mkdir <folderName>
+- checking the existing files and folders
+	Command: ls
+- creating file in the CLI
+	Command: touch <file_name>
+
+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
